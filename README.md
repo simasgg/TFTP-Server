@@ -1,5 +1,6 @@
 # TFTP-Server
 TFTP Server w/ wxWidgets
+Visual Studio 2019
 
 TFTP Server GUI application made with wxWidgets library and simple C++ socket (Winsock). To get wxWidgets visit https://www.wxwidgets.org/. 
 
